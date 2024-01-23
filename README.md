@@ -1,0 +1,1 @@
+Exercicis de rust per anar practicant
